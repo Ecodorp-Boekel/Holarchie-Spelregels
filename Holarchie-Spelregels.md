@@ -1,7 +1,7 @@
 # **Holarchie Spelregels**
 
 ## Disclaimer
-De **Holarchie Spelregels** is een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
+De **Holarchie Spelregels** is een 'fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
 Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
 advies in te winnen bij een rechtsgeldige instantie.
