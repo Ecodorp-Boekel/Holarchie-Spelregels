@@ -1,7 +1,7 @@
-# **Holarchie Grondwet**
+# **Holarchie Spelregels**
 
 ## Disclaimer
-De **Holarchie Grondwet** is een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
+De **Holarchie Spelregels** is een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
 Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
 advies in te winnen bij een rechtsgeldige instantie.
@@ -9,7 +9,7 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
-Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Spelregels"** definieren regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Spelregels. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Spelregels en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Vervullen van rollen
 
