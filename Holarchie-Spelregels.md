@@ -1,67 +1,73 @@
 # **Holarchie Spelregels**
 
 ## Disclaimer
-De **Holarchie Spelregels** is een 'fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
+De **Holarchie Spelregels** is een 'fork' van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor het organiseren van Ecodorp Boekel.
+
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
 Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
 advies in te winnen bij een rechtsgeldige instantie.
 
-
 ## Voorwoord
 
-Deze **"Spelregels"** definieren regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Spelregels. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Spelregels en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Spelregels"** definieren de regels en processen voor het **besturen** en uitvoeren van een Organisatie. De personen die hier (juridisch) toe bevoegd zijn, de **"initiatiefnemers"**, adopteren deze regels als de formele machtsstructuur voor **"Ecodorp Boekel"**, als specificatie op het adopteren van de Holarchie Spelregels. 
+
+De initiatiefnemers en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie Ecodorp Boekel. De **"Ecodorpers"** kunnen bouwen op de autoriteit die wordt gegeven door deze Spelregels en gaan tevens akkoord met het feit dat zij zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Vervullen van rollen
 
-Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een rol bezit.
+Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een Ecodorper die een rol bezit.
 
 ### 1.1 Definitie van een Rol
 
-Een "Rol" is een organisatorische eenheid die een "doel" uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
-De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
+Een **"Rol"** is een organisatorische eenheid die een **(a) "Doel"** uit drukt, **(b) "Domeinen"** controleert en **(c) "Verantwoordelijkheden"** uit voert.
 
-**(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
+De Ecodorpers verrichten werk voor Ecodorp Boekel, door te handelen vanuit een expliciet gedefinieerde Rol. Een Rol is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
-**(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom namens de Organisatie.
+**(a)** Een **"Doel"**. De Rol heeft een eigen Doel die ze na zal streven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
+
+**(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als eigendom namens de Organisatie. Zie artikel 2.1.2.
 
 **(c)** Een of meer **"Verantwoordelijkheden"**. Dit zijn doorlopende activiteiten van de Organisatie die de Rol uitvoert. 
 
 ### 1.2 Verantwoordelijkheden van een Rol vervullen
 
-Wanneer een partner een rol vervult accepteert diegene de volgende verantwoordelijkheden:
+Wanneer een Ecodorper een rol vervult accepteert diegene de volgende verantwoordelijkheden:
 
 #### 1.2.1 Spanningen verwerken
 
-Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
+Een Ecodorper is verantwoordelijk voor het waarnemen van "spanningen" voor de rol(len) die hij/zij vervult en de verwerking daarvan. 
+Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning wordt verwerkt in een Rol- of Actie Overleg
+
+**HIER WAREN WE GEBLEVEN**
 
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
-Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun rol in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
+Een Ecodorper is verantwoordelijk voor het opdelen van de verantwoordelijkheden van de rol(len) die hij/zij vervult in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken. Een Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaat.
 
 #### 1.2.3 Projecten verwerken
 
-Een partner is verantwoordelijk voor het opdelen van al hun projecten in Acties.
+Een Ecodorper is verantwoordelijk voor het opdelen van al hun projecten in Acties.
 
 #### 1.2.4 Bijhouden van Projecten, Eerstvolgende Acties en Spanningen
 
-Een partner is verantwoordelijk voor het bijhouden van hun projecten en Acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
+Een Ecodorper is verantwoordelijk voor het bijhouden van hun projecten en Acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
 
 #### 1.2.5 Aandacht en middelen beheren
 
-Een partner is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
+Een Ecodorper is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
 Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk om te bedenken welke potentiële Eerstvolgende Actie je efficiënt en effectief kunt uitvoeren op dat moment, en diegene uit te voeren waarvan jij gelooft dat deze de meeste waarde toevoegt. 
 
 ### 1.3. Autoriteit om te handelen
 
-Als je als Partner een rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
+Als je als Ecodorper een rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
 
-Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Partner die deze rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
+Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Ecodorper die deze rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ### 1.4 Autoriteit over Domeinen
 
-Als Partner die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
+Als Ecodorper die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
 
 #### 1.4.1 Beleid
 
@@ -75,11 +81,11 @@ Een Cirkel bevat een integreert vele rollen. Dit artikel beschrijft hoe een Cirk
 
 ### 2.1 Cirkel fundamenten
 
-Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Partner die een van de Gedefinieerde rollen vervult is een **"Lid"** van die Cirkel. 
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere Ecodorpers samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Ecodorper die een van de Gedefinieerde rollen vervult is een **"Lid"** van die Cirkel. 
 
 #### 2.1.1 Rollen en Beleid definiëren 
 
-Elke Cirkel gebruikt het **"Bestuursproces"**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen binnen de Cirkel te definiëren of te wijzigen en om het **"Beleid"** te bepalen. Niemand mag Rollen of Beleid van een Cirkel definiëren of wijzigen buiten dit Bestuursproces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
+Elke Cirkel gebruikt het **"Bestuursproces"**, welke wordt beschreven in Artikel 3 van deze Spelregels, om Rollen binnen de Cirkel te definiëren of te wijzigen en om het **"Beleid"** te bepalen. Niemand mag Rollen of Beleid van een Cirkel definiëren of wijzigen buiten dit Bestuursproces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Spelregels. 
 
 Verder beheer iedere **Cirkel** haar eigen verantwoordelijkheden en acties alsof deze een Domein van de Cirkel zijn.
 
@@ -133,7 +139,7 @@ De leden van ene Cirkel houden zich aan de volgende regels:
 
 Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarden van dit Artikel, zijn de de leden van de Cirkel:
 
-**(a)** iedere Partner die een Rol vervult binnen die Cirkel;
+**(a)** iedere Ecodorper die een Rol vervult binnen die Cirkel;
 
 **(b)** de LeadLink van de Cirkel, zoals vastgelegd in Artikel 2.2;
 
@@ -141,37 +147,37 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 **(d)** iedere KoppelLink in die Cirkel, zoals vastgelegd in Artikel 2,7. 
 
-#### 2.3.2 Vertegenwoordiging van Rollen met meerdere Partners
+#### 2.3.2 Vertegenwoordiging van Rollen met meerdere Ecodorpers
 
-Als een rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een RepLink om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
+Als een rol wordt ingevuld door meerdere Ecodorpers, kan een Cirkel een domein instellen waarmee slechts een van die Ecodorpers aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Ecodorper zich als een RepLink om de spanningen van de andere Ecodorpers te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Ecodorper die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
-Soms besteedt een Partner slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de LeadLink van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de LeadLink deze Partner in deze Rol uitsluiten als lid van de Cirkel. 
+Soms besteedt een Ecodorper slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de LeadLink van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de LeadLink deze Ecodorper in deze Rol uitsluiten als lid van de Cirkel. 
 
-Als een Partner op deze manier wordt uitgesloten, heeft de LeadLink de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Partner, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Partner is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
+Als een Ecodorper op deze manier wordt uitgesloten, heeft de LeadLink de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Ecodorper, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Ecodorper is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
 
 #### 2.3.4 Speciale benoeming van Cirkel leden
 
-De LeadLink van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Grondwet, en kan deze benoeming op ieder moment opheffen. 
+De LeadLink van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Spelregels, en kan deze benoeming op ieder moment opheffen. 
 
 ### 2.4 Rol toewijzing
 
-De LeadLink van de Cirkel kan Partners toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
+De LeadLink van de Cirkel kan Ecodorpers toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
 
 #### 2.4.1 Onvervulde Rollen
 
-Als een Rol in een Cirkel niet door een Partner wordt vervuld word deze toegewezen aan de LeadLink. 
+Als een Rol in een Cirkel niet door een Ecodorper wordt vervuld word deze toegewezen aan de LeadLink. 
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
-Een rol kan aan meerdere Partners worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
+Een rol kan aan meerdere Ecodorpers worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
 
-Als een Rol toewijzing een Focus bevat dan geldt dat: het doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Partner binnen die Focus. 
+Als een Rol toewijzing een Focus bevat dan geldt dat: het doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Ecodorper binnen die Focus. 
 
 #### 2.4.3 Afstand doen van Rollen
 
-Een Partner die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de LeadLink. 
+Een Ecodorper die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de LeadLink. 
 
 ### 2.5 Verkozen Rollen
 
@@ -179,7 +185,7 @@ Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Partner die de LeadLink van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Rep Link. 
+De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Ecodorper die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Ecodorper die de LeadLink van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Rep Link. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
@@ -195,11 +201,11 @@ Een Cirkel kan niets veranderen aan verkozen Rollen van andere cirkels, met inbe
 
 #### 2.5.4 Vervanging van verkozen Rollen
 
-Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer deze zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
+Een vervangende Ecodorper kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer deze zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
 
 Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
-**(a)** iemand die expliciet is bepaald door de partner die de Rol voorheen vervulde; of
+**(a)** iemand die expliciet is bepaald door de Ecodorper die de Rol voorheen vervulde; of
 
 **(b)** de Facilitator van de Cirkel; of
 
@@ -226,8 +232,8 @@ Een Cirkel kan een Sub-Cirkel verwijderen door middel van bestuur door;
 
 #### 2.6.3 LeadLink van Sub-Cirkel
 
-De LeadLink van een Cirkel kan een Partner aanwijzen om de LeadLink Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de LeadLink personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
-Of de Partner die de oorspronkelijk rol vervulde word de LeadLink van die Sub-Cirkel.
+De LeadLink van een Cirkel kan een Ecodorper aanwijzen om de LeadLink Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de LeadLink personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
+Of de Ecodorper die de oorspronkelijk rol vervulde word de LeadLink van die Sub-Cirkel.
 Of er vinden verkiezingen plaats voor de Rol van LeadLink voor die Sub-Cirkel
 
 #### 2.6.4 Rep Link naar Sub-Cirkel
@@ -252,7 +258,7 @@ Als de Gekoppelde Entiteit geen helder doel en geen enkele heldere Verantwoordel
 
 #### 2.7.2 KoppelLink toewijzing
 
-Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Partner aanwijzen om de KoppelLink te vervullen, gebruikmakend van het proces dat de Entiteit of groep al gebruikt voor het toewijzen van Partners om Rollen of gelijksoortige werkfuncties te vervullen. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Ecodorper aanwijzen om de KoppelLink te vervullen, gebruikmakend van het proces dat de Entiteit of groep al gebruikt voor het toewijzen van Ecodorpers om Rollen of gelijksoortige werkfuncties te vervullen. 
 
 Als een Gekoppelde Entiteit een groep vertegenwoordigt die geen duidelijk proces of heldere autoriteit heeft om de KoppelLink Rol toe te wijzen, dan kan in plaats daarvan de Doel-Cirkel iemand toewijzen aan de KoppelLink Rol, tenzij anders gespecificeerd in de KoppelLink Rol Domeinafspraak. 
 
@@ -291,7 +297,7 @@ Op ieder willekeurig moment definiëren de dan actuele resultaten van het Bestuu
 
 Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een **"Voorstel"** te doen als **"Indiener"**.
 
-Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel (3) spreken we van een **"Bezwaar"** en de Partner die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
+Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel (3) spreken we van een **"Bezwaar"** en de Ecodorper die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
 
 Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het aangepaste Voorstel wordt aangenomen.
 
@@ -308,9 +314,9 @@ Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstelle
 
 Sommige Voorstellen worden niet toegestaan tijdens het Bestuur Proces van de Cirkel en de Facilitator kan deze afwijzen voordat ze volledig verwerkt zijn.
 
-Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Partner vervult in de Cirkel beter uit te drukken. 
+Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Ecodorper vervult in de Cirkel beter uit te drukken. 
 
-Een partner mag alleen een voorstel doen voor een Rol die door een andere Partner vervuld word als die Partner daar expliciet toestemming voor heeft gegeven.
+Een Ecodorper mag alleen een voorstel doen voor een Rol die door een andere Ecodorper vervuld word als die Ecodorper daar expliciet toestemming voor heeft gegeven.
 
 Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om het Bestuur van de Cirkel met meer helderheid te laten reflecteren wat er al in de praktijk gebeurt, of om een nieuwe verkiezing te initiëren. 
 
@@ -331,12 +337,12 @@ Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de
 
 **(c)** De Spanning word veroorzaakt door reeds bekende feiten of gebeurtenissen, zonder daarbij rekening te houden met voorspellingen van wat er mogelijk in de toekomst zou kunnen gebeuren. Echter, een beroep doen op voorspellingen is toegestaan wanneer er in de toekomst waarschijnlijk geen gelegenheid is om de schade adequaat waar te nemen en te reageren voordat het Voorstel tot significante impact heeft geleid. 
 
-**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Partner die deze Rol normaal vervult.
+**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Ecodorper die deze Rol normaal vervult.
 
 Echter, ongeacht bovenstaande criteria telt een Spanning altijd als een Bezwaar als:
 
-**(e)** Het behandelen of aannemen van het Voorstel de regels breekt zoals vastgelegd in deze Grondwet. Of het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit zoals vastgelegd deze Grondwet. 
-Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Bestuurs-proces onder de voorwaarden van Artikel 3.1, dus elk Lid kan een Bezwaar inbrengen dat een Voorstel met deze uitkomsten de regels van de Grondwet breken. 
+**(e)** Het behandelen of aannemen van het Voorstel de regels breekt zoals vastgelegd in deze Spelregels. Of het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit zoals vastgelegd deze Spelregels. 
+Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Bestuurs-proces onder de voorwaarden van Artikel 3.1, dus elk Lid kan een Bezwaar inbrengen dat een Voorstel met deze uitkomsten de regels van de Spelregels breken. 
 
 #### 3.2.5 Bezwaren testen
 
@@ -345,7 +351,7 @@ Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk ar
 
 Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Spelregels, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Spelregels. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
@@ -373,7 +379,7 @@ De Facilitator is verantwoordelijk voor het voorzitten van alle Rol Overleggen i
 
 Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Facilitator en/of Secretaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
 
-Bovendien mogen de LeadLink en iedere RepLink en KoppelLink van een Cirkel één extra Partner uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Partner wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
+Bovendien mogen de LeadLink en iedere RepLink en KoppelLink van een Cirkel één extra Ecodorper uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Ecodorper wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
@@ -389,15 +395,15 @@ Iedereen die er niet in slaagt om aanwezig te zijn bij een Rol Overleg geld als 
 
 De Facilitator moet de volgende stappen gebruiken voor Rol Overleggen en helder aangeven in welke stap het overleg zich bevind:
 
-**(a) Openings-Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings-Ronde:** De Facilitator geeft iedere Ecodorper om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
 
 **(b) Administratieve Mededelingen:** De Facilitator geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
 **(c) Agenda Opbouw en Verwerking:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
 
-**(d) Sluitings-Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
+**(d) Sluitings-Ronde:** De Facilitator geeft iedere Ecodorper om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
 
-Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
+Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Spelregels. 
 
 #### 3.3.4 Agenda opbouw
 
@@ -456,9 +462,9 @@ Rol Overleggen zijn primair bedoeld om het Bestuursproces van de Cirkel te onder
 
 Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Rol Overleg niet meer of minder gewicht of autoriteit dan diegene die gemaakt worden buiten een Rol Overleg. 
 
-### 3.4. Interpreteren van de Grondwet en Bestuur
+### 3.4. Interpreteren van de Spelregels en Bestuur
 
-Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Grondwet en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
+Als een Ecodorper van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Spelregels en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
 #### 3.4.1. Interpretatie van de Secretaris overstemt
 
@@ -474,20 +480,20 @@ Na de beslissing over een interpretatie mag een Secretaris van een cirkel ervoor
 
 #### 3.4.4 Schrappen van ongeldig Bestuur
 
-Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat het Bestuur in strijd is met de regels van deze Grondwet moet de Secretaris de conflicterende Bestuur schrappen uit het betreffende Bestuurs-Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
+Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat het Bestuur in strijd is met de regels van deze Spelregels moet de Secretaris de conflicterende Bestuur schrappen uit het betreffende Bestuurs-Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
 
 ### 3.5 Proces-storing 
 
-Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word geconstateerd van gedrag dat in strijd is met de regels van deze Grondwet. 
+Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word geconstateerd van gedrag dat in strijd is met de regels van deze Spelregels. 
 
 #### 3.5.1 Storing door vastgelopen Rol Overleg
 
 De Facilitator kan een Proces-storing in de Cirkel constateren als de Leden van de Cirkel er niet in slagen om een Voorstel succesvol te behandelen in een Rol Overleg, zelfs als dat voor geruime tijd is geprobeerd.
 Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Rol Overleg heeft verzocht, dan mag de Voorsteller in dat geval ook een Processtoring constateren. 
 
-#### 3.5.2 Storing door ongrondwettelijk gedrag
+#### 3.5.2 Storing door onSpelregelstelijk gedrag
 
-De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Grondwet. Echter, wanneer de Facilitator ook de LeadLink of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Rep Link deze constatering ook doen. 
+De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Spelregels. Echter, wanneer de Facilitator ook de LeadLink of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Rep Link deze constatering ook doen. 
 
 #### 3.5.3 Proces herstel
 
@@ -495,7 +501,7 @@ Wanneer een daartoe bevoegde partij een Processtoring in een Cirkel constateert 
 
 **(a)** De Facilitator van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
 
-**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Secretaris van die Cirkel, of om een andere Partner te benoemen om dat te doen; en
+**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Secretaris van die Cirkel, of om een andere Ecodorper te benoemen om dat te doen; en
 
 **(c)** De Facilitator van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuursproces van die Cirkel.
 
@@ -525,7 +531,7 @@ Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je m
 **(b) Relatieve prioriteit:** Je moet jouw oordeel over de relatieve prioriteit delen, van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
 
 **(c) Schattingen:** Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
-Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de partner die om de schatting gevraagd heeft.
+Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de Ecodorper die om de schatting gevraagd heeft.
 
 **(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de LeadLink van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
 
@@ -545,7 +551,7 @@ Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, 
 
 **(a) Verwerking boven Uitvoering:** Je moet over het algemeen genomen binnenkomende berichten van mede Cirkel Leden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkings-berichten tegelijkertijd te verwerken, in één tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die Gedefinieerde staan in dit Artikel, inclusief het bezien van het bericht, definiëren en vastleggen van Eerstvolgende Acties of Projecten indien geschikt en, op verzoek, reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
 
-**(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkel Lid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
+**(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkel Lid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Spelregels, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
 
 **(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordeling van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioritering en/of strategieën van de Cirkel zoals die zijn vastgesteld door de LeadLink van de Cirkel. 
 
@@ -555,7 +561,7 @@ Als een LeadLink, Rep Link of Koppel Link van een Cirkel mag je iemand anders ui
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
-Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Grondwet. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
+Al jouw verantwoordelijkheden en plichten als Ecodorper van de Organisatie zijn gedefinieerd in deze Spelregels. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
 
 ### 4.2. Actie Overleg
 
@@ -575,7 +581,7 @@ Actie Overleggen zijn bedoeld om;
 
 #### 4.2.2 Aanwezigheid
 
-Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Actie Overleg, tenzij een Domeinafspraak iets anders stelt. 
+Alle Leden van de Cirkel en elke Ecodorper of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Actie Overleg, tenzij een Domeinafspraak iets anders stelt. 
 
 #### 4.2.3 Begeleiding & Proces
 
@@ -593,10 +599,10 @@ Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist to
 
 **(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Rep Link de ruimte geven om updates te delen. 
 
-**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Ecodorpers met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
 De Facilitator heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
 
-**(f) Sluitings-Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
+**(f) Sluitings-Ronde:** De Facilitator geeft iedere Ecodorper om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
 
 ##### 4.2.3.1 Proces verandering
 
@@ -604,11 +610,11 @@ Een Cirkel mag een Beleid aannemen om iets te veranderen of toe te voegen aan di
 
 #### 4.2.2 Vervanging voor afwezige leden
 
-Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Partner afwezig is, dan mag de LeadLink van de Cirkel handelen namens die Rol. Als de LeadLink ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Partner die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
+Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Ecodorper afwezig is, dan mag de LeadLink van de Cirkel handelen namens die Rol. Als de LeadLink ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Ecodorper die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
 
 ### 4.3 Individuele Actie
 
-Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Grondwet te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
+Als Ecodorper van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Spelregels te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
 
 #### 4.3.1 Toegestane situaties
 
@@ -624,9 +630,9 @@ Je mag alleen Individuele Actie nemen als al het volgende waar is:
 
 #### 4.3.2 Communicatie & herstel
 
-Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Partner die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Partner heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
+Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Ecodorper die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Ecodorper heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
 
-Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Partner die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de LeadLink die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
+Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Ecodorper die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de LeadLink die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
 
 #### 4.3.3 Beleid verhelderen
 
@@ -638,18 +644,18 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 
 ## Artikel 5: Implementatie Kwesties
 
-### 5.1 Gezaghebbende krijgen nieuwe bevoegdheden 
+### 5.1 Initiatiefnemers krijgen nieuwe bevoegdheden 
 
-Door het aannemen van deze Grondwet geven de Gezaghebbende hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Grondwet. 
-Echter, als een uitzondering op deze regel, mogen de Gezaghebbende doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
+Door het aannemen van deze Spelregels geven de Initiatiefnemers hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Ecodorpers te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Spelregels. 
+Echter, als een uitzondering op deze regel, mogen de Initiatiefnemers doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
 
 ### 5.2 Anker Cirkel
 
-Bij het aannemen van deze Grondwet, moeten de Gezaghebbende een eerste Cirkel vaststellen om het algehele Doel van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
+Bij het aannemen van deze Spelregels, moeten de Initiatiefnemers een eerste Cirkel vaststellen om het algehele Doel van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
 
 #### 5.2.1 Links naar de Anker Cirkel
 
-De Gezaghebbende mogen een eerste LeadLink van de Anker Cirkel benoemen. Als alternatief kunnen de Gezaghebbende de Anker Cirkel zonder LeadLink laten en een of meerdere initiële Koppel Links naar de Anker Cirkel creëren in plaats van een LeadLink. 
+De Initiatiefnemers mogen een eerste LeadLink van de Anker Cirkel benoemen. Als alternatief kunnen de Initiatiefnemers de Anker Cirkel zonder LeadLink laten en een of meerdere initiële Koppel Links naar de Anker Cirkel creëren in plaats van een LeadLink. 
 
 #### 5.2.2 Handelen zonder een LeadLink
 
@@ -659,7 +665,7 @@ Verder, in een Anker Cirkel zonder LeadLink, wordt de normale autoriteit van Rol
 
 #### 5.2.3 Doel van de Organisatie
 
-De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Partners, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
+De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Ecodorpers, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
 
 De LeadLink van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag het Doel vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
 
@@ -669,7 +675,7 @@ Als de Anker Cirkel geen LeadLink heeft word deze Verantwoordelijkheid automatis
 
 De LeadLink van de Anker Cirkel heeft de autoriteit om de Cirkel een naam te geven, haar Domeinen te verhelderen en Verantwoordelijkheden toe te voegen of te wijzigen. 
 
-De LeadLink van de Anker Cirkel kan ook zijn of haar eigen vervanger benoemen indien gewenst, tenzij anders gespecificeerd door de Gezaghebbende. 
+De LeadLink van de Anker Cirkel kan ook zijn of haar eigen vervanger benoemen indien gewenst, tenzij anders gespecificeerd door de Initiatiefnemers. 
 
 #### 5.2.5 Geen Super Cirkel
 
@@ -677,17 +683,17 @@ De Anker Cirkel heeft geen Super Cirkel en verkiest geen Rep Link.
 
 ### 5.3 Initiële structuur
 
-De LeadLink van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuursproces die vereist is door deze Grondwet. Als die eerste structuur andere Cirkels omvat dan mogen de LeadLinks van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Bestuursproces. 
+De LeadLink van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuursproces die vereist is door deze Spelregels. Als die eerste structuur andere Cirkels omvat dan mogen de LeadLinks van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Bestuursproces. 
 
 ### 5.4 Bestaande Domeinafspraken en systemen
 
-Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Grondwet blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in het Bestuurs-Document zijn vastgelegd. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
+Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Spelregels blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in het Bestuurs-Document zijn vastgelegd. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
 
-Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Bestuur is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Bestuursproces zoals gedefinieerd in deze Grondwet. 
+Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Bestuur is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Bestuursproces zoals gedefinieerd in deze Spelregels. 
 
-### 5.5 Grondwet wijzigingen of intrekking
+### 5.5 Spelregels wijzigingen of intrekking
 
-De Gezaghebbende of hun opvolgers mogen deze Grondwet volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
+De Initiatiefnemers of hun opvolgers mogen deze Spelregels volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Ecodorpers van de Organisatie toegankelijk is. 
 
 ## Bijlage A: Definitie Van Kernrollen
 
@@ -701,7 +707,7 @@ De Gezaghebbende of hun opvolgers mogen deze Grondwet volledig wijzigen of intre
 
 * Vertalen van het werk van de cirkel in gesegmenteerde rollen (en indien nodig ander Bestuur)
 
-* Toewijzen van Partners aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Partners als het zinvol is voor het verbeteren van de passendheid. 
+* Toewijzen van Ecodorpers aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Ecodorpers als het zinvol is voor het verbeteren van de passendheid. 
 
 * Toekennen van de middelen van de Cirkel aan haar verschillende Projecten en/of Rollen.
 
@@ -727,19 +733,19 @@ De Gezaghebbende of hun opvolgers mogen deze Grondwet volledig wijzigen of intre
 
 ### Facilitator 
 
-**Kerndoel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
+**Kerndoel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze Spelregels. 
 
 **Verantwoordelijkheden:** 
 
-* Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Grondwet.
+* Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Spelregels.
 
-* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet. 
+* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Spelregels. 
 
 ### Secretaris
 
 **Kerndoel:** Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-**Domeinen:** Alle Grondwettelijk vereiste vastlegging van de Cirkel
+**Domeinen:** Alle Spelregelstelijk vereiste vastlegging van de Cirkel
 
 **Verantwoordelijkheden:**
 
@@ -747,7 +753,7 @@ De Gezaghebbende of hun opvolgers mogen deze Grondwet volledig wijzigen of intre
 
 * Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel in het Bestuurs-Document en het bijhouden van een samengesteld overzicht van het huidige Bestuur van de Cirkel, checklist items en Metrieken. 
 
-* Interpreteren van het Bestuurs-Document en de Grondwet op verzoek. 
+* Interpreteren van het Bestuurs-Document en de Spelregels op verzoek. 
 
 ---
 
