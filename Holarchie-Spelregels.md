@@ -38,32 +38,37 @@ Wanneer een Ecodorper een rol vervult accepteert diegene de volgende verantwoord
 Een Ecodorper is verantwoordelijk voor het waarnemen van "spanningen" voor de rol(len) die hij/zij vervult en de verwerking daarvan. 
 Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning wordt verwerkt in een Rol- of Actie Overleg
 
-**HIER WAREN WE GEBLEVEN**
-
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
-Een Ecodorper is verantwoordelijk voor het opdelen van de verantwoordelijkheden van de rol(len) die hij/zij vervult in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken. Een Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaat.
+Een Ecodorper is verantwoordelijk voor het opdelen van de verantwoordelijkheden van de rol(len) die hij/zij vervult in Projecten en Acties om dichter bij het doel te komen. Een project is een verzameling van Acties die samen een resultaat bereiken. Een Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaat.
 
 #### 1.2.3 Projecten verwerken
 
-Een Ecodorper is verantwoordelijk voor het opdelen van al hun projecten in Acties.
+Een Ecodorper is verantwoordelijk voor het opdelen van Projecten in Acties.
 
-#### 1.2.4 Bijhouden van Projecten, Eerstvolgende Acties en Spanningen
+#### 1.2.4 Bijhouden van Projecten, Acties en Spanningen
 
-Een Ecodorper is verantwoordelijk voor het bijhouden van hun projecten en Acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
+Een Ecodorper is verantwoordelijk voor: 
+- Het bijhouden van jouw Projecten en Acties in een tastbaar systeem buiten je geest (database, lijst, etc.).
+- Het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. 
+- Het vastleggen van Spanningen die jij identificeert voor jouw Rol, totdat jij ze verwerkt hebt in gewenste Projecten of Acties of ze op een andere manier oplost. 
 
 #### 1.2.5 Aandacht en middelen beheren
 
-Een Ecodorper is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
-Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk om te bedenken welke potentiële Eerstvolgende Actie je efficiënt en effectief kunt uitvoeren op dat moment, en diegene uit te voeren waarvan jij gelooft dat deze de meeste waarde toevoegt. 
+Jij als Ecodorper bent verantwoordelijk voor het bewust en voortdurend kiezen aan welke Projecten en Acties jij arbeid en/of middelen besteed.
+Als jij tijd beschikbaar hebt om te handelen in jouw Rol ben je verantwoordelijk om te bedenken welke potentiële eerstvolgende Actie je efficiënt en effectief kunt uitvoeren.
 
 ### 1.3. Autoriteit om te handelen
 
-Als je als Ecodorper een rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
+Als jij als Ecodorper een rol vervult heb jij de autoriteit om elke Actie uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
 
-Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Ecodorper die deze rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
+Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult tenzij: 
+- Je expliciet toestemming hebt van de Ecodorper die deze rol vervult. 
+- Als er een noodzaak is voor een Individuele actie zoals bepaald in Artikel 4.3 (Individuele Actie).
 
-De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
+De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1 (Cirkel Fundamenten). 
+
+**HIER WAREN WE GEBLEVEN**
 
 ### 1.4 Autoriteit over Domeinen
 
@@ -597,7 +602,7 @@ Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist to
 
 **(c) Metrieken Bekijken:** De Facilitator vraagt iedere deelnemer voor veranderingen in alle Metrieken waar hij/zij verantwoordelijk voor is.
 
-**(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Rep Link de ruimte geven om updates te delen. 
+**(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van Projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Rep Link de ruimte geven om updates te delen. 
 
 **(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Ecodorpers met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
 De Facilitator heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
