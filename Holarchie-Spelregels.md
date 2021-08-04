@@ -68,6 +68,8 @@ Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1 (Cirkel Fundamenten). 
 
+We zijn tot hier gekomen
+
 ### 1.4 Autoriteit over Domeinen
 
 Als Ecodorper die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. 
