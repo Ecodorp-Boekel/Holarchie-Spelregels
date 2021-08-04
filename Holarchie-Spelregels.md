@@ -58,7 +58,7 @@ Een Ecodorper is verantwoordelijk voor:
 Jij als Ecodorper bent verantwoordelijk voor het bewust en voortdurend kiezen aan welke Projecten en Acties jij arbeid en/of middelen besteed.
 Als jij tijd beschikbaar hebt om te handelen in jouw Rol ben je verantwoordelijk om te bedenken welke potentiële eerstvolgende Actie je efficiënt en effectief kunt uitvoeren.
 
-### 1.3. Autoriteit om te handelen
+### 1.3 Autoriteit om te handelen
 
 Als jij als Ecodorper een rol vervult heb jij de autoriteit om elke Actie uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
 
@@ -68,11 +68,11 @@ Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1 (Cirkel Fundamenten). 
 
-**HIER WAREN WE GEBLEVEN**
-
 ### 1.4 Autoriteit over Domeinen
 
-Als Ecodorper die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
+Als Ecodorper die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. 
+
+Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
 
 #### 1.4.1 Beleid
 
@@ -619,7 +619,7 @@ Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoor
 
 ### 4.3 Individuele Actie
 
-Als Ecodorper van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Spelregels te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
+Als Ecodorper van het ecodorp ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Spelregels te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
 
 #### 4.3.1 Toegestane situaties
 
